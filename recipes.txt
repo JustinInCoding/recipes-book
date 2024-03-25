@@ -1,2 +1,6 @@
 Carnitas Tacos
 Fried Chicken
+
+func generateRandomNumber() -> Double {
+  Double.random(in: 1..<10.0)
+}
